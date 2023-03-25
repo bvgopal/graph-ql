@@ -5,7 +5,7 @@ SpringBoot Version-2.7.x
 To access Graphql UI=>
 http://localhost:8080/graphiql
 
-type below scripts and verify results.paly around removing elements and verify results.
+type below scripts and verify results.
 
 To Execute authors=>
 query {
